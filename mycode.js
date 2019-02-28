@@ -3,5 +3,6 @@ function hello() {
 }
 
 function bye(){
-    return 52;
+    return 10101010;
 }
+
