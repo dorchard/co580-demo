@@ -3,5 +3,9 @@ function hello() {
 }
 
 function bye(){
-    return 52;
+    return 42;
+}
+
+function thing() {
+    console.log("hello");
 }
