@@ -3,7 +3,7 @@ function hello() {
 }
 
 function bye(){
-    return 42;
+  return 10101010;
 }
 
 function thing() {
